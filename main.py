@@ -1,6 +1,4 @@
-print("Hello Kiri World")
-
-
+print("Hello Kiri World") #//from dev2 - y1 branch code
 
 # from b1 branch
 x = ["ali", "gholi", "jafar", 13, 14, 15]
